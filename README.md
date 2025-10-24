@@ -1,16 +1,27 @@
-# midterm_req_4
+# Part C: Practical Task — 3-Screen Flutter App
 
-A new Flutter project.
+## Introduction
+This Flutter application demonstrates navigation across **three screens** with user interaction and data transfer.  
+It allows the user to enter personal details (Name, Age, and Email) in a form and then view the submitted information on a separate screen.
+---
 
-## Getting Started
+## How the App Works
 
-This project is a starting point for a Flutter application.
+### **Screen 1: Welcome Page**
+- Displays a greeting message with the developer’s name.
+- Includes a button that navigates to **Screen 2**.
+- 
+### **Screen 2: Input Form**
+- Contains three text input fields: Name, Age, and Email.
+- A Submit button is provided to proceed after filling in the details.
 
-A few resources to get you started if this is your first Flutter project:
+### **Screen 3: Display Information**
+- Receives and displays the user’s submitted details neatly in a Column.
+- Information such as Name, Age, and Email is shown with labels for clarity.
+- The user can easily read back their input on this final screen.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Developed by:** Janlee Estoy
+- **Course:** Computer Engineering
+- **Part C:** Practical Task — 3-Screen App
