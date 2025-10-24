@@ -1,8 +1,10 @@
 # Part C: Practical Task — 3-Screen Flutter App
 
 ## Introduction
+
 This Flutter application demonstrates navigation across **three screens** with user interaction and data transfer.  
 It allows the user to enter personal details (Name, Age, and Email) in a form and then view the submitted information on a separate screen.
+
 ---
 
 ## How the App Works
